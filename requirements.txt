@@ -1,0 +1,9 @@
+# Dépendances du pipeline
+requests>=2.32
+pandas>=2.3
+psycopg[binary]>=3.2
+python-dotenv>=1.0
+matplotlib>=3.10
+
+# Tests
+pytest>=8.3
